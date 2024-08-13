@@ -10,4 +10,4 @@ wire
 
 
 wire4
-![alt text](<Screenshot 2024-08-13 202944.png>)
+![Screenshot 2024-08-13 202944](https://github.com/user-attachments/assets/62918df9-6127-468d-9a9d-b8d1e568c8ed)
