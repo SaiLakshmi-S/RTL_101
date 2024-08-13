@@ -10,4 +10,4 @@ wire
 
 
 wire4
-![alt text](<Screenshot 2024-08-13 202534-1.png>)
+![alt text](<Screenshot 2024-08-13 202944.png>)
