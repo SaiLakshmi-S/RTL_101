@@ -10,5 +10,4 @@
 ![image](https://github.com/user-attachments/assets/9a17823b-9789-4ac0-8293-dfc3ddd3011e)
 
 # NOT
-![image](https://github.com/user-attachments/assets/75f5005f-8a37-4e8c-97d6-aa6b5ee14643)
-
+![Screenshot 2024-08-15 111437](https://github.com/user-attachments/assets/7c9a91d0-0928-4483-9faa-2e52550cf6ab)
