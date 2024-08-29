@@ -1,5 +1,6 @@
 # Problem 1
-![Screenshot 2024-08-29 192323](https://github.com/user-attachments/assets/e61d178f-b2a6-454e-a499-e9f0ceb53546)
+![Screenshot 2024-08-29 210254](https://github.com/user-attachments/assets/83b4e490-8c60-4f8b-b64a-7d8cf7b9a614)
+
 
 # Problem 2
-![Screenshot 2024-08-29 193420](https://github.com/user-attachments/assets/069dbd07-0ab4-410b-b26a-62f0ace83cd3)
+![Screenshot 2024-08-29 210644](https://github.com/user-attachments/assets/03a19486-ebc4-4d01-b910-6161a5c9c1ed)
