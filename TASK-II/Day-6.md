@@ -12,3 +12,14 @@ DFF
 
 
 ![Screenshot 2024-09-03 095943](https://github.com/user-attachments/assets/7707a82e-f5ed-4e48-9267-fb1163eb6d3a)
+
+
+![Screenshot 2024-09-03 190711](https://github.com/user-attachments/assets/b0c9517c-2346-42d3-9316-02ff10043364)
+
+
+# D Latch
+
+
+![Screenshot 2024-09-03 191254](https://github.com/user-attachments/assets/69d40f34-34e7-4308-87f1-72d662c72822)
+
+
